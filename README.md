@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AbhishekM1504
+- 👀 I’m interested in *Industrial Robotics*
+- 🌱 I’m currently learning *3d Printing* and *Robot Kinematics*
+- 📫 How to reach me abhishekm150401@gmail.com
+- 🧐  I’m working in *Fusion 360, Arduino, RobotStudio, Choreographe Suite, Automation Studio*.... 
+- 🤖  Worked in *IRB1410* and *NAO* Robot
